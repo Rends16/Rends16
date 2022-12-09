@@ -7,7 +7,7 @@ Estudiante del octavo ciclo de la carrera de Economía en la Pontificia Universi
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 Actualmente me encuentro trabajando en Rimac Seguros y Reaseguros en el cargo de Practicante Actuarial No Vida (https://www.rimac.com) 
-- 🌱 Me encuentro practicando constantemente los siguientes lenguajes de programación: R, Python, Stata y SQL.
+- 🌱 Me encuentro practicando constantemente en los siguientes lenguajes de programación: R, Python, Stata y SQL.
 - 🤔 Tengo interés de aprendizaje en el sector financiero y actuarial.
 - 💼 Me encuentro estudiando la carrera de Finanzas en la Pontificia Universidad Católica del Perú.
 - 💬 Dentro de mis cualidades profesionales me destaco en el rabajo en equipo, responsabilidad, aplicado y creativo.
